@@ -1,0 +1,6 @@
+C:\QCLCD\App_Snippets\FileExtractor\ExtractQclcdFiles\ExtractQclcdFiles\bin\Debug\ExtractQclcdFiles.exe.config
+C:\QCLCD\App_Snippets\FileExtractor\ExtractQclcdFiles\ExtractQclcdFiles\bin\Debug\ExtractQclcdFiles.exe
+C:\QCLCD\App_Snippets\FileExtractor\ExtractQclcdFiles\ExtractQclcdFiles\bin\Debug\ExtractQclcdFiles.pdb
+C:\QCLCD\App_Snippets\FileExtractor\ExtractQclcdFiles\ExtractQclcdFiles\obj\Debug\ExtractQclcdFiles.csprojResolveAssemblyReference.cache
+C:\QCLCD\App_Snippets\FileExtractor\ExtractQclcdFiles\ExtractQclcdFiles\obj\Debug\ExtractQclcdFiles.exe
+C:\QCLCD\App_Snippets\FileExtractor\ExtractQclcdFiles\ExtractQclcdFiles\obj\Debug\ExtractQclcdFiles.pdb
