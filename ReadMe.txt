@@ -2,7 +2,7 @@
 Zip File Archive Extractor
 **************
 
-Blake Mccabe - 20131003
+Blake McCabe - 20131003
 
 The purpose of this small app is to extract files of a defined file name pattern from a zip archive folder to another folder.
 
